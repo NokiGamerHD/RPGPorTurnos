@@ -1,0 +1,22 @@
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.deps.json
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.runtimeconfig.json
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.dll
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.pdb
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.dll
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.pdb
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.deps.json
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.runtimeconfig.json
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.runtimeconfig.dev.json
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.dll
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\bin\Debug\netcoreapp2.1\RPGPorTurnos.pdb
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.csprojAssemblyReference.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.csproj.CoreCompileInputs.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.AssemblyInfoInputs.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.AssemblyInfo.cs
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.dll
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\netcoreapp2.1\RPGPorTurnos.pdb

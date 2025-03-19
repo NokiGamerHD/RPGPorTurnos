@@ -1,0 +1,21 @@
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\net8.0\RPGPorTurnos.exe
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\net8.0\RPGPorTurnos.deps.json
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\net8.0\RPGPorTurnos.runtimeconfig.json
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\net8.0\RPGPorTurnos.dll
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\bin\Debug\net8.0\RPGPorTurnos.pdb
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.dll
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\refint\RPGPorTurnos.dll
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.pdb
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\ref\RPGPorTurnos.dll
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.AssemblyInfoInputs.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.AssemblyInfo.cs
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.csproj.CoreCompileInputs.cache
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.dll
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\refint\RPGPorTurnos.dll
+E:\Luca Escola\Ensino Médio ETEC 2 JOD\Linguagem de Programação 1\1ºBimestre\RPGPorTurnos\RPGPorTurnos\obj\Debug\net8.0\RPGPorTurnos.pdb
