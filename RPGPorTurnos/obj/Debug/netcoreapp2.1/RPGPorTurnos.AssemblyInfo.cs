@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPGPorTurnos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+049ad890abb97a42b4d82eeb4b62904ccacb8f98")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPGPorTurnos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPGPorTurnos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
