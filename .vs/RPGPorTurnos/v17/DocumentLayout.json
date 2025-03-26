@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02080869-DBF6-4FDB-9E76-E19751E516CF}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02080869-DBF6-4FDB-9E76-E19751E516CF}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02080869-DBF6-4FDB-9E76-E19751E516CF}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02080869-DBF6-4FDB-9E76-E19751E516CF}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02080869-DBF6-4FDB-9E76-E19751E516CF}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02080869-DBF6-4FDB-9E76-E19751E516CF}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|e:\\luca escola\\ensino m\u00E9dio etec 2 jod\\linguagem de programa\u00E7\u00E3o 1\\1\u00BAbimestre\\rpgporturnos\\rpgporturnos\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924591BA-99DB-493F-96CE-702078578E32}|RPGPorTurnos\\RPGPorTurnos.csproj|solutionrelative:rpgporturnos\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,33 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Itens.cs",
               "DocumentMoniker": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Itens.cs",
               "RelativeDocumentMoniker": "RPGPorTurnos\\Itens.cs",
               "ToolTip": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Itens.cs",
               "RelativeToolTip": "RPGPorTurnos\\Itens.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAAK0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAgwMsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:06:18.95Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Personagem.cs",
-              "DocumentMoniker": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Personagem.cs",
-              "RelativeDocumentMoniker": "RPGPorTurnos\\Personagem.cs",
-              "ToolTip": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Personagem.cs",
-              "RelativeToolTip": "RPGPorTurnos\\Personagem.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAA4wDAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:00:23.305Z",
+              "WhenOpened": "2025-03-26T14:43:18.22Z",
               "EditorCaption": ""
             },
             {
@@ -59,10 +49,34 @@
               "RelativeDocumentMoniker": "RPGPorTurnos\\Program.cs",
               "ToolTip": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Program.cs",
               "RelativeToolTip": "RPGPorTurnos\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:04:09.616Z",
+              "WhenOpened": "2025-03-26T14:43:17.532Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Personagem.cs",
+              "RelativeDocumentMoniker": "RPGPorTurnos\\Personagem.cs",
+              "ToolTip": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Personagem.cs",
+              "RelativeToolTip": "RPGPorTurnos\\Personagem.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:43:16.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Mapa.cs",
+              "RelativeDocumentMoniker": "RPGPorTurnos\\Mapa.cs",
+              "ToolTip": "E:\\Luca Escola\\Ensino M\u00E9dio ETEC 2 JOD\\Linguagem de Programa\u00E7\u00E3o 1\\1\u00BABimestre\\RPGPorTurnos\\RPGPorTurnos\\Mapa.cs",
+              "RelativeToolTip": "RPGPorTurnos\\Mapa.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAjwB8BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:43:11.472Z"
             }
           ]
         }

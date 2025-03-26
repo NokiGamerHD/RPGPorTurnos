@@ -135,7 +135,7 @@ namespace RPGPorTurnos
             equipamentos[13, 6] = "2";
             equipamentos[13, 7] = "Sem Classe/Arqueiro";
 
-            equipamentos[14, 0] = "Armadura de Guerreiro";
+            equipamentos[14, 0] = "Armadura de Prata";
             equipamentos[14, 1] = "Armadura";
             equipamentos[14, 2] = "30";
             equipamentos[14, 3] = "0";
@@ -144,7 +144,7 @@ namespace RPGPorTurnos
             equipamentos[14, 6] = "15";
             equipamentos[14, 7] = "Guerreiro";
 
-            equipamentos[15, 0] = "Manto de Couro Batido";
+            equipamentos[15, 0] = "Manto da Visão";
             equipamentos[15, 1] = "Armadura";
             equipamentos[15, 2] = "30";
             equipamentos[15, 3] = "+15 de Ataque Físico/Distância (Bônus)";
@@ -153,40 +153,40 @@ namespace RPGPorTurnos
             equipamentos[15, 6] = "5";
             equipamentos[15, 7] = "Arqueiro";
 
-            equipamentos[16, 0] = "Tûnica de Mago";
+            equipamentos[16, 0] = "Tûnica Arcana";
             equipamentos[16, 1] = "Armadura";
             equipamentos[16, 2] = "30";
             equipamentos[16, 3] = "+20 de Ataque Mágico (Bônus)";
             equipamentos[16, 4] = "10";
             equipamentos[16, 5] = "Nenhuma";
-            equipamentos[16, 6] = "5";
+            equipamentos[16, 6] = "10";
             equipamentos[16, 7] = "Mago";
 
-            equipamentos[17, 0] = "";
-            equipamentos[17, 1] = "";
-            equipamentos[17, 2] = "";
-            equipamentos[17, 3] = "";
-            equipamentos[17, 4] = "";
-            equipamentos[17, 5] = "";
-            equipamentos[17, 6] = "";
+            equipamentos[17, 0] = "Kimono de Luta";
+            equipamentos[17, 1] = "Armadura";
+            equipamentos[17, 2] = "30";
+            equipamentos[17, 3] = "+15 de Ataque Físico (Bônus)";
+            equipamentos[17, 4] = "15";
+            equipamentos[17, 5] = "Nenhuma";
+            equipamentos[17, 6] = "5";
             equipamentos[17, 7] = "Monge";
 
-            equipamentos[18, 0] = "";
-            equipamentos[18, 1] = "";
-            equipamentos[18, 2] = "";
-            equipamentos[18, 3] = "";
-            equipamentos[18, 4] = "";
-            equipamentos[18, 5] = "";
-            equipamentos[18, 6] = "";
+            equipamentos[18, 0] = "Uniforme de Maestro";
+            equipamentos[18, 1] = "Armadura";
+            equipamentos[18, 2] = "30";
+            equipamentos[18, 3] = "+15 de Ataque Mágico/+10 de Ataque Físico (Bônus)";
+            equipamentos[18, 4] = "5";
+            equipamentos[18, 5] = "Nenhuma";
+            equipamentos[18, 6] = "5";
             equipamentos[18, 7] = "Bardo";
 
-            equipamentos[19, 0] = "";
-            equipamentos[19, 1] = "";
-            equipamentos[19, 2] = "";
-            equipamentos[19, 3] = "";
-            equipamentos[19, 4] = "";
-            equipamentos[19, 5] = "";
-            equipamentos[19, 6] = "";
+            equipamentos[19, 0] = "Capuz das Trevas";
+            equipamentos[19, 1] = "Armadura";
+            equipamentos[19, 2] = "30";
+            equipamentos[19, 3] = "+20 de Ataque Físico (Bônus)";
+            equipamentos[19, 4] = "10";
+            equipamentos[19, 5] = "Nenhuma";
+            equipamentos[19, 6] = "5";
             equipamentos[19, 7] = "Ladino";
 
             equipamentos[20, 0] = "Zênite";
@@ -204,8 +204,14 @@ namespace RPGPorTurnos
 
         public void listarItens()
         {
+            Console.WriteLine("EQUIPAMENTOS:");
+            Console.WriteLine("");
+            Console.WriteLine("");
             Console.WriteLine(equipamentos);
-            Console.WriteLine("TESTE");
+            Console.ReadKey();
+            Console.Clear();
+
+
         }
     }
 }

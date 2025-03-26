@@ -47,22 +47,22 @@ namespace RPGPorTurnos
                 construirGuerreiro();
                 Console.ReadKey();
             }
-            else if (classe == "ARQUEIRO") 
+            else if (classe == "ARQUEIRO")
             {
                 construirArqueiro();
                 Console.ReadKey();
             }
-            else if (classe == "MAGO") 
+            else if (classe == "MAGO")
             {
                 construirMago();
                 Console.ReadKey();
             }
-            else if (classe == "MONGE") 
+            else if (classe == "MONGE")
             {
                 construirMonge();
                 Console.ReadKey();
             }
-            else if (classe == "BARDO") 
+            else if (classe == "BARDO")
             {
                 construirBardo();
                 Console.ReadKey();
@@ -72,7 +72,12 @@ namespace RPGPorTurnos
                 construirLadino();
                 Console.ReadKey();
             }
+
+
+            Console.Clear();
+
         }
+
 
         public void construirGuerreiro()
         {

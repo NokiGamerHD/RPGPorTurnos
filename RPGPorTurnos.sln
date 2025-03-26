@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.916
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGPorTurnos", "RPGPorTurnos\RPGPorTurnos.csproj", "{02080869-DBF6-4FDB-9E76-E19751E516CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGPorTurnos", "RPGPorTurnos\RPGPorTurnos.csproj", "{924591BA-99DB-493F-96CE-702078578E32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{02080869-DBF6-4FDB-9E76-E19751E516CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{02080869-DBF6-4FDB-9E76-E19751E516CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{02080869-DBF6-4FDB-9E76-E19751E516CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{02080869-DBF6-4FDB-9E76-E19751E516CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924591BA-99DB-493F-96CE-702078578E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924591BA-99DB-493F-96CE-702078578E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924591BA-99DB-493F-96CE-702078578E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924591BA-99DB-493F-96CE-702078578E32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {87E8F3A5-83D8-4D4F-8C36-CA257CC6B59E}
+		SolutionGuid = {16228E30-E3F0-46B4-8A83-9E252E61C3F8}
 	EndGlobalSection
 EndGlobal

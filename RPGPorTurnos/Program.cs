@@ -7,6 +7,7 @@ namespace RPGPorTurnos
     {
         static void Main(string[] args)
         {
+
             string opc;
             Console.WriteLine("Bem Vindo!");
             Console.WriteLine(" ");
@@ -19,8 +20,21 @@ namespace RPGPorTurnos
                 Personagem Char = new Personagem();
                 Char.criacaoPersonagem();
 
-                Itens Equips = new Itens();
-                Equips.cadastrarItem();
+                Console.WriteLine("");
+                Console.Clear();
+
+                Itens Item = new Itens();
+                Item.cadastrarItem();
+
+                Console.WriteLine("");
+                Console.Clear();
+
+                Mapa local = new Mapa();
+                local.cidadeCentral();
+
+                Console.WriteLine("");
+                Console.Clear();
+
             }
             else
             {
